@@ -1,0 +1,26 @@
+.big {
+ color: blue;
+  text-align: center;
+  background-color: red;
+  border: 1px solid black;
+  background-opacity: 0.25;
+}
+
+.list {
+  color: red;
+  text-align: center;
+  border: 1px solid black;
+}
+
+#place {
+  text-align: left;
+}
+
+#background {
+  background-color: blue;
+  background-opacity: 0.9;
+}
+
+#border {
+  border: 5px solid black;
+}
